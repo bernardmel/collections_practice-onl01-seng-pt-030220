@@ -1,4 +1,4 @@
-def sort_array_asc(a , b)
+def array(sort_array_asc)
   sort_array_asc.sort do |a, b|
   a > b
 end
