@@ -18,6 +18,6 @@ end
 
 def swap_elements(array)
 
-    array(["a", "b", "c"],1,2)
-  
+    swap_elements(["a", "b", "c"],1,2)
+
 end
